@@ -17,7 +17,7 @@ get_sidebar( 'mobile' ); ?>
   <!--Hero Unit-->
     <div class="hero-unit">
       <h1>Jinhai Zhou</h1>
-      <h3>A passionate software engineer</h3>
+      <h3>A passionate and creative software engineer</h3>
     </div>
 <!-- Tabs================================================== -->
 <div class="tabbable">
@@ -49,24 +49,24 @@ get_sidebar( 'mobile' ); ?>
                 </ol>
                 <div class="carousel-inner">
                   <div class="item active">
-                    <img src="http://getbootstrap.com/2.3.2/assets/img/bootstrap-mdo-sfmoma-01.jpg" width ="100%">
+                    <img src="http://www.jinhaizhou.com/wp-content/uploads/2016/03/betting_soft.png" width ="100%">
                     <div class="carousel-caption">
                       <h4>Sports Betting System</h4>
-                      <p>Redacted software engineering document based on customer’s need; implemented the system with integration of a database using Java and SQL, tested the system by JUnit</p>
+                      <p>Designed and developed the back end of a sports betting system, integrated a database using JDBC and SQL, tested the system by JUnit , redacted software engineering documents along the development process</p>
                     </div>
                   </div>
                   <div class="item">
-                    <img src="http://getbootstrap.com/2.3.2/assets/img/bootstrap-mdo-sfmoma-02.jpg"  width ="100%">
+                    <img src="http://www.jinhaizhou.com/wp-content/uploads/2016/03/c2w.png"  width ="100%">
                     <div class="carousel-caption">
                       <h4>Chat While Watching</h4>
-                      <p>Redacted an application-layer protocol specification; implemented the protocol with a simple but reliable chat room application using Python and Socket Programming</p>
+                      <p>Redacted an application-layer protocol specification, implemented the protocol with a simple but reliable chat room application using Python and Socket Programming</p>
                     </div>
                   </div>
                   <div class="item">
-                    <img src="http://getbootstrap.com/2.3.2/assets/img/bootstrap-mdo-sfmoma-03.jpg"  width ="100%">
+                    <img src="http://www.jinhaizhou.com/wp-content/uploads/2016/03/3d_recognition.png"  width ="100%">
                     <div class="carousel-caption">
                       <h4>3D object recognition</h4>
-                      <p>Contributed to an existing project which used deep learning for 3D object classification, modified the code in Matlab to classify customized RGB-D images captured by Kinect camera</p>
+                      <p>Contributed to an existing project which used deep learning for 3D object classification, modified the code in Matlab to classify customized 3D images captured by a Kinect camera</p>
                     </div>
                   </div>
                 </div>
@@ -79,7 +79,7 @@ get_sidebar( 'mobile' ); ?>
   <div class="tab-pane fade in" id="profile">
   <!-- Profile================================================== -->
     <p>
-    My name is Jinhai and I am currently a second year at <a title="" href="https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_t%C3%A9l%C3%A9communications_de_Bretagne" data-original-title="Telecom Bretagne (formerly known as ENST Bretagne) is one of the top French grande école and a high standard research centre providing high level training in Information Technologies and telecommunications. This grande école of engineering is located near Brest in Brittany." data-toggle="tooltip"> Telecom Bretagne</a> in France, majoring in Computer Science and Networks. I am interested in being a software engineer in the future because I want to achieve something unusual that can improve our daily lives. To make my dream come true, I will begin with taking <a title="" href="http://stage.ooreka.fr/comprendre/annee-cesure"data-original-title="At French grande école, a year of caesura (Année césure) is a gap year between second year and third year, for the aim of doing some practical projects within the industrial world before graduation" data-toggle="tooltip">a year of caesura</a> in technology industry and making my first contribution to the development of industrial world as well as strengthen my skills of solving problems and skills of programing.
+    My name is Jinhai and I am currently a second year student at <a title="" href="https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_t%C3%A9l%C3%A9communications_de_Bretagne" data-original-title="Telecom Bretagne (formerly known as ENST Bretagne) is one of the top French grande école and a high standard research centre providing high level training in Information Technologies and telecommunications. This grande école of engineering is located near Brest in Brittany." data-toggle="tooltip"> Telecom Bretagne</a> in France, majoring in Computer Science and Networks. I am interested in being a software engineer in the future because I want to achieve something unusual that can improve our daily lives. To make my dream come true, I will begin with taking <a title="" href="http://stage.ooreka.fr/comprendre/annee-cesure"data-original-title="At French grande école, a year of caesura (Année césure) is a gap year between second year and third year, for the aim of doing some practical projects within the industrial world before graduation" data-toggle="tooltip">a year of caesura</a> in technology industry and making my first contribution to the development of industrial world as well as strengthen my skills of solving problems and skills of programing.
 </p>
 <!-- Profile More================================================== -->
 <p class="center">
