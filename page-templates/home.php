@@ -284,6 +284,17 @@ get_sidebar( 'mobile' ); ?>
     </div>
     </div>
 
+    <div class="row-fluid">
+    <div class="span6">
+      <h4><a title="" href="http://shidafu1992.blogspot.fr/">Dafu SHI</a></h4>
+      <p>Enrolled in Telecom Bretagne in 2013, now in a year of caesura and works as Cloud Applications Software Engineer at Gemalto</p>
+    </div>
+    <div class="span6">
+       <h4><a title="" href="http://cuijiwen.com/#/">Jiwen CUI</a></h4>
+      <p>Enrolled in Telecom Bretagne in 2014, now in 2nd year of Msc</p>   
+    </div>
+    </div>
+
   </div>
 <!-- Blogs================================================== -->  
 
