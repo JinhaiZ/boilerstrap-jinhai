@@ -46,6 +46,7 @@ get_sidebar( 'mobile' ); ?>
                   <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                   <li data-target="#myCarousel" data-slide-to="1"></li>
                   <li data-target="#myCarousel" data-slide-to="2"></li>
+                  <li data-target="#myCarousel" data-slide-to="3"></li>
                 </ol>
                 <div class="carousel-inner">
                   <div class="item active">
@@ -60,6 +61,13 @@ get_sidebar( 'mobile' ); ?>
                     <div class="carousel-caption">
                       <h4>Chat While Watching</h4>
                       <p>Redacted an application-layer protocol specification, implemented the protocol with a simple but reliable chat room application using Python and Python Twisted framework</p>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <img src="http://www.jinhaizhou.com/wp-content/uploads/2016/04/airport_data_visualization.png"  width ="100%">
+                    <div class="carousel-caption">
+                      <h4>Airport Data Visualization</h4>
+                      <p>Designed and developed a Java Applet that visualized <a target="_blank" href="https://lists.openstreetmap.org/pipermail/talk-fr/2015-August/077812.html">Airport and Route data</a> on an interactive map using Java Processing library and Unfolding Map library</p>
                     </div>
                   </div>
                   <div class="item">
