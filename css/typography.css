@@ -203,3 +203,14 @@ a.btn {
   font-size: 10pt;
   letter-spacing: 0.5px;
 }
+#background{
+  background-image: url("../img/wallpaper.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: top;
+  height: 200px;
+}
+#background h3{
+  color: white;
+}

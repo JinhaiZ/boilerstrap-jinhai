@@ -15,7 +15,7 @@ get_sidebar( 'mobile' ); ?>
 <div id="primary" class="site-content frontpage">
   <div id="content" class="entry-content" role="main">
   <!--Hero Unit-->
-    <div class="hero-unit">
+    <div id="background"class="hero-unit">
       <h1>Jinhai Zhou</h1>
       <h3>A passionate and creative software engineer</h3>
     </div>
