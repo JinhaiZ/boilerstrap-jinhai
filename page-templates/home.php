@@ -136,19 +136,30 @@ get_sidebar( 'mobile' ); ?>
 
     <div class="row-fluid">
     <div class="span6">
-        <p>Java</p>
-        <div class="progress progress-striped active"><div class="bar" style="width: 85%;"></div></div>
+        <p>C#</p>
+        <div class="progress progress-striped"><div class="bar" style="width: 40%;"></div></div>
     </div>
     <div class="span6">
-        <p>Python</p>
-        <div class="progress progress-striped active"><div class="bar" style="width: 70%;"></div></div>
+        <p>Java</p>
+        <div class="progress progress-striped active"><div class="bar" style="width: 90%;"></div></div>
     </div>
     </div>
 
     <div class="row-fluid">
     <div class="span6">
+        <p>Python</p>
+        <div class="progress progress-striped active"><div class="bar" style="width: 60%;"></div></div>
+    </div>
+    <div class="span6">
         <p>Matlab</p>
         <div class="progress progress-striped active"><div class="bar" style="width: 80%;"></div></div>
+    </div>
+    </div>
+
+    <div class="row-fluid">
+    <div class="span6">
+        <p>HTML</p>
+        <div class="progress progress-striped active"><div class="bar" style="width: 30%;"></div></div>
     </div>
     <div class="span6">
         <p>PHP</p>
@@ -158,12 +169,12 @@ get_sidebar( 'mobile' ); ?>
 
     <div class="row-fluid">
     <div class="span6">
-        <p>HTML</p>
-        <div class="progress progress-striped active"><div class="bar" style="width: 20%;"></div></div>
+        <p>Markdown</p>
+        <div class="progress progress-striped active"><div class="bar" style="width: 60%;"></div></div>
     </div>
     <div class="span6">
         <p>Latex</p>
-        <div class="progress progress-striped"><div class="bar" style="width: 50%;"></div></div>
+        <div class="progress progress-striped"><div class="bar" style="width: 30%;"></div></div>
     </div>
     </div>
 
@@ -171,34 +182,45 @@ get_sidebar( 'mobile' ); ?>
 
     <div class="row-fluid">
     <div class="span6">
-        <p>Android Studio</p>
-        <div class="progress progress-striped active"><div class="bar bar-success" style="width: 40%;"></div></div>
+        <p>Linux Ubuntu</p>
+        <div class="progress progress-striped active"><div class="bar bar-success" style="width: 60%;"></div></div>
     </div>
     <div class="span6">
-        <p>Linux Ubuntu</p>
-        <div class="progress progress-striped active"><div class="bar bar-success" style="width: 40%;"></div></div>
+        <p>VirtualBox</p>
+        <div class="progress progress-striped active"><div class="bar bar-success" style="width: 50%;"></div></div>
     </div>
     </div>
 
     <div class="row-fluid">
     <div class="span6">
         <p>Git/SVN</p>
-        <div class="progress progress-striped"><div class="bar bar-success" style="width: 95%;"></div></div>
+        <div class="progress progress-striped active"><div class="bar bar-success" style="width: 90%;"></div></div>
     </div>
     <div class="span6">
         <p>Eclipse</p>
-        <div class="progress progress-striped"><div class="bar bar-success" style="width: 70%;"></div></div>
+        <div class="progress progress-striped active"><div class="bar bar-success" style="width: 70%;"></div></div>
     </div>
     </div>
 
     <div class="row-fluid">
     <div class="span6">
-        <p>Photoshop</p>
-        <div class="progress progress-striped"><div class="bar bar-success" style="width: 75%;"></div></div>
+        <p>HDFS</p>
+        <div class="progress progress-striped active"><div class="bar bar-success" style="width: 40%;"></div></div>
     </div>
     <div class="span6">
-        <p>Premiere</p>
-        <div class="progress progress-striped active"><div class="bar bar-success" style="width: 10%;"></div></div>
+        <p>Hadoop (Pig, Hive, HBase)</p>
+        <div class="progress progress-striped active"><div class="bar bar-success" style="width: 30%;"></div></div>
+    </div>
+    </div>
+
+    <div class="row-fluid">
+    <div class="span6">
+        <p>Docker</p>
+        <div class="progress progress-striped active"><div class="bar bar-success" style="width: 30%;"></div></div>
+    </div>
+    <div class="span6">
+        <p>Unity</p>
+        <div class="progress progress-striped active"><div class="bar bar-success" style="width: 40%;"></div></div>
     </div>
     </div>
 
