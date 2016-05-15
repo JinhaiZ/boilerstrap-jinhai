@@ -74,7 +74,7 @@ get_sidebar( 'mobile' ); ?>
                     <img src="http://www.jinhaizhou.com/wp-content/uploads/2016/03/3d_recognition.png"  width ="100%">
                     <div class="carousel-caption">
                       <h4>3D object recognition</h4>
-                      <p>Contributed to an existing project which used Deep Learning for 3D object classification, modified the code in Matlab to classify customized 3D images captured by a Kinect camera</p>
+                      <p>Contributed to an existing project which used Deep Learning for 3D object classification, modified the code in Matlab to classify customized 3D images captured by a Kinect camera, a detailed description can be found <a href = "http://www.jinhaizhou.com/wp-content/uploads/2016/05/Extrait_RECH201-proceedings_2015_automneV5.pdf" target="_blank">here</a></p>
                     </div>
                   </div>
                 </div>
